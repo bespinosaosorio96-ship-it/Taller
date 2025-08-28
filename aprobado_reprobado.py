@@ -2,7 +2,7 @@ import os
 os.system("clear")
 
 
-print("Bienvenido al programa donde calculamos sus notas")
+print("Bienvenido al programa donde calculamos sus notas:")
 
 nota1=float(input("ingrese su primera nota"))
 nota2=float(input("ingrese su segunda nota"))
